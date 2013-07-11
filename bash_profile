@@ -29,7 +29,7 @@ alias bi='bundle install --binstubs'
 alias gci='git commit'
 alias gco='git checkout'
 alias gd='git diff | subl'
-alias glog="git log --graph --pretty=format:'%Cred%h%Creset %an: %s - %Creset %C(yellow)%d%Creset %Cgreen(%cr)%Creset' --abbrev-commit --date=relative"
+alias glog="git log --graph --date=relative"
 alias gpl='git pull'
 alias gps='git push'
 alias grm="git status | grep deleted | awk '{print \$3}' | xargs git rm"
