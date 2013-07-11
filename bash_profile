@@ -33,7 +33,7 @@ alias glog="git log --graph --pretty=format:'%Cred%h%Creset %an: %s - %Creset %C
 alias gpl='git pull'
 alias gps='git push'
 alias grm="git status | grep deleted | awk '{print \$3}' | xargs git rm"
-alias gs='git status -sb'
+alias gs='git status'
 
 # Rails
 alias dbm0='rake db:migrate VERSION=0'
