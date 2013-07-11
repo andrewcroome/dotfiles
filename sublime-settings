@@ -1,6 +1,6 @@
 {
   "hot_exit": false,
-	"remember_open_files": false,
+  "remember_open_files": false,
   "color_scheme": "Packages/Theme - Railscasts/RailsCastsColorScheme.tmTheme",
   "dictionary": "Packages/Language - English/en_GB.dic",
   "draw_white_space": "selection",
